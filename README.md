@@ -1,3 +1,5 @@
+# Arch Linux Os
+
 Arch Linux Installation:
 Arch Linux is a lightweight and flexible Linux distribution focused on simplicity and user control. Its installation involves manual steps such as partitioning disks, mounting filesystems, installing the base system with pacstrap, configuring the bootloader (like GRUB), setting up networking, and creating a user account. Unlike other distros, Arch provides a minimal base, encouraging users to configure everything themselves for a custom setup.
 
